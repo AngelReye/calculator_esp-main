@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    background-color: beige; /* El color del fondo de la página web */
+    font-family: inter, sans-serif; /* Familia de fuentes */
+    margin: 20px;
+    padding: 20px;
+    font-size: 24px;
+    color: green; }
+
+p1{
+    color: blue;
+}
+
+p2{
+    color: orange;
+}
+
+p3{
+    color: purple;
+}
+
+p4{
+    color: red;
+}
